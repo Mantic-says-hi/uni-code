@@ -1,0 +1,650 @@
+Crest Shore Tower
+Crystal Mast
+Dragon Loch Tower
+Empyrean Garden Spire
+Hallow Spire
+History Pillar
+Oracle Pillar
+Piety River Pillar
+Prophecy Tower
+Prosperity Obelisk
+Repose Cave Tower
+Rose Spire
+Sanctity Hill Tower
+Secret Loch Obelisk
+Serenity Pillar
+Tranquility Desert Pillar
+Velvet Tower
+Vile Loch Tower
+Wraith Isle Tower
+Spirit Tower
+Resolution Tower
+Serenity Tower
+Fealty Pillar
+Twin Mast
+Nightmare Peak Spire
+Primordial Grove Spire
+Light Morass Spire
+Crescent Glade Pillar
+Crown Cave Tower
+Solidarity Tower
+Kinship Lookout
+Animus Tower
+Prestige Mast
+Space Mast
+White Swale Mast
+Tranquility Lagoon Tower
+Rotten Grove Lookout
+Low Copse Tower
+Wrath Loch Tower
+Celebration Obelisk
+History Lookout
+Endurance Pillar
+Daydream Lookout
+Reverence Tower
+Imperial Dune Tower
+Frenzy Glade Mast
+Azure Ridge Tower
+Sky Mountain Tower
+Haunted Peak Mast
+History Lookout
+Purity Mast
+Charity Pillar
+Ascendance Mast
+Sentience Tower
+Snow Stream Mast
+Talon Creek Tower
+Wolf Cave Spire
+Haunted Ridge Mast
+Gloom Den Mast
+Prophecy Spire
+Solace Lookout
+Prestige Tower
+Labor Spire
+Augury Mast
+Outcast Copse Mast
+Iron Plains Lookout
+Rust Shore Pillar
+Dragon Mast
+Reincarnation Mast
+Courage Tower
+Prophecy Tower
+Prospect Lookout
+Dead Park Tower
+Immortal Stream Pillar
+Obsidian Cliff Tower
+Great Bog Tower
+Spirit Plains Tower
+Dagger Sierra Lookout
+Primordial Bog Pillar
+Liberation Obelisk
+Paradise Lookout
+Pilgrimage Pillar
+Melody Tower
+Concord Tower
+Fury Lagoon Obelisk
+Emerald Dune Spire
+Oak Stream Lookout
+Rust Hill Tower
+Dread Field Lookout
+Elemental Spire
+Essence Tower
+Calypso Obelisk
+Central Obelisk
+Eternity Tower
+Harmony Bog Tower
+Behemoth Peak Tower
+Grim Grounds Lookout
+South Meadow Tower
+Meditation Grove Mast
+Revelation Spire
+Sanguine Pillar
+Onyx Pillar
+Elemental Tower
+Elysium Pillar
+Eternal Range Obelisk
+Heart Brook Obelisk
+Grim Creek Tower
+Dagger Jungle Tower
+Serenity Brook Spire
+Star Obelisk
+Domination Lookout
+Union Spire
+Euphony Tower
+Space Tower
+Whisper Beach Tower
+Jade Cliff Obelisk
+Vile Mire Spire
+Onyx Slope Tower
+Blood Mire Pillar
+Kinship Obelisk
+Reincarnation Tower
+Hallow Pillar
+Prospect Tower
+Justice Pillar
+Demon Slope Tower
+Sanguine Cliff Tower
+Chaos Forest Pillar
+Fortune Mire Lookout
+Willow Beach Tower
+Rose Pillar
+Solace Lookout
+High Mast
+Pilgrimage Lookout
+Clover Tower
+Rotten Fen Tower
+North Jungle Tower
+Secret Ridge Pillar
+Timeless Coast Tower
+Demon Field Pillar
+Promise Lookout
+Tribute Tower
+Tranquility Mast
+Space Tower
+Animus Pillar
+Weeping Forest Tower
+Blood Mire Lookout
+Great Garden Obelisk
+Dragon Strand Lookout
+Rough Thicket Pillar
+Tribulation Tower
+Resurrection Mast
+Innocence Pillar
+Star Tower
+Truth Lookout
+Sky Grounds Tower
+Grim Atoll Spire
+Snow Woods Mast
+Trinity Park Tower
+Forsaken Fen Lookout
+Eternity Pillar
+Renaissance Spire
+Epoch Mast
+Fame Lookout
+Vision Tower
+Gray Copse Tower
+Memorial River Lookout
+Wisdom Moor Spire
+Fury Park Obelisk
+Arrow Brook Lookout
+Valor Mast
+Essence Tower
+Ambition Spire
+Silver Lookout
+Trade Mast
+Lily Loch Pillar
+Nightmare Cavern Lookout
+Twin Fen Obelisk
+Winter Woods Mast
+Lesser Woods Lookout
+Patience Tower
+Vision Obelisk
+Serenity Tower
+Sentience Tower
+Phoenix Obelisk
+Boulder Coast Pillar
+Little Meadow Tower
+Crown Pasture Mast
+Jade Creek Tower
+Prestige Plains Lookout
+Symbiosis Tower
+Bloom Pillar
+Faith Mast
+Utopia Tower
+Fame Pillar
+Whisper Bluff Tower
+Boulder Loch Obelisk
+Wraith Range Lookout
+Ash River Tower
+Fiend Moor Tower
+Symbiosis Spire
+Obsidian Tower
+Afterlife Tower
+Wildlife Lookout
+Victory Spire
+Onyx Swamp Lookout
+Ruby Cave Spire
+South Garden Lookout
+Rotten Grotto Tower
+Sapphire Swamp Lookout
+Independence Tower
+Parallel Tower
+High Point Tower
+Onyx Pillar
+Dream Spire
+Paradise Jungle Tower
+Frost Isle Spire
+Stag Garden Pillar
+North Shore Lookout
+Feral Cliff Pillar
+Liberation Tower
+Observation Mast
+Trade Tower
+Utopia Spire
+Euphony Pillar
+Frost Lagoon Lookout
+Deer Lake Pillar
+Piety Lake Tower
+Primal Swale Spire
+Fire Pasture Pillar
+Exhibition Tower
+Sentience Spire
+Resolution Tower
+Star Tower
+Elysium Tower
+Iron Pasture Tower
+Great Cavern Tower
+Liberty Coast Lookout
+Mighty Plains Tower
+Broad Cliff Obelisk
+Reunion Tower
+Ascendance Tower
+Velvet Mast
+Fame Lookout
+Charity Pillar
+Angel Peak Obelisk
+Ruby Fen Spire
+Outcast Range Tower
+Paradise Desert Mast
+Sky Ridge Tower
+Creed Tower
+Honor Obelisk
+Augury Spire
+Epiphany Tower
+Rebirth Pillar
+Crescent Isle Mast
+Tranquility Grotto Lookout
+Berserker Land Tower
+Serenity Cavern Tower
+Central Lookout
+History Mast
+Dreamland Tower
+Diamond Tower
+Eternity Tower
+Wisdom Glade Obelisk
+Dragon Range Pillar
+Echo Pasture Mast
+Critter Cavern Tower
+Lily Field Pillar
+Valiance Tower
+Zion Pillar
+Liberty Mast
+Hope Tower
+Endurance Tower
+Azure Swamp Lookout
+Trinity Ridge Tower
+Willow Beach Tower
+Primeval Desert Tower
+Heirloom Swamp Mast
+Animus Tower
+Solace Mast
+Union Tower
+Ascendance Tower
+Rejuvenation Tower
+Wicked Territory Obelisk
+Terror Grove Tower
+Venom Stream Lookout
+Arch Hill Mast
+Midsummer Dune Tower
+Patience Tower
+Concord Mast
+Elemental Obelisk
+Fealty Tower
+Elemental Tower
+Primeval Isle Tower
+Grand Woods Lookout
+Willow Slope Pillar
+Oak Den Lookout
+Eternal Swale Mast
+Heaven's Tower
+Bloom Spire
+Promise Tower
+Prospect Tower
+Trust Spire
+Weeping Coast Tower
+Crypt Territory Tower
+Bronze Bluff Tower
+Boar Cave Pillar
+Secret Swamp Obelisk
+Solitude Obelisk
+Prosperity Tower
+Celebration Obelisk
+Glory Tower
+Faith Pillar
+Willow Grove Tower
+Savage Isle Tower
+Heart Morass Mast
+Mighty Lake Pillar
+Prestige Park Tower
+Victory Tower
+Central Mast
+Trade Tower
+Triumph Pillar
+Desire Spire
+Gray Plains Spire
+Broad Cave Lookout
+Soul Coast Obelisk
+Stag Sierra Pillar
+Lesser Park Lookout
+Silver Tower
+Fortune Pillar
+Fusion Spire
+Fame Pillar
+Trade Pillar
+Weeping Morass Tower
+Ghost Forest Tower
+Sanguine Cavern Tower
+Thunder Mountain Spire
+Heart River Tower
+Vision Mast
+Central Obelisk
+Endurance Tower
+Obsidian Tower
+Myriad Obelisk
+Light Meadow Lookout
+Heir Shore Obelisk
+Light Creek Lookout
+Crescent Grotto Mast
+Boulder Jungle Obelisk
+Hallow Tower
+Velvet Pillar
+Horoscope Tower
+Temperance Tower
+Victory Obelisk
+Dream Strand Lookout
+Oak Forest Spire
+Infinity Loch Tower
+Outcast Thicket Tower
+Dagger Atoll Spire
+Pinnacle Tower
+Crystal Mast
+Liberation Obelisk
+Space Tower
+Fealty Tower
+Angel Swale Tower
+Tranquility Garden Tower
+Relic Slope Obelisk
+Forsaken Grounds Mast
+Vestige Pasture Mast
+Rose Tower
+Triumph Mast
+Domination Mast
+Resurrection Lookout
+High Tower
+Fire Forest Spire
+Repose Jungle Obelisk
+Peace Moor Pillar
+West Ridge Tower
+Little Swale Spire
+Onyx Tower
+Prospect Tower
+Revelation Tower
+Prestige Lookout
+Honor Tower
+Prime Pasture Tower
+Dust Strand Lookout
+West Morass Pillar
+Mortal Isle Tower
+Crystal Territory Pillar
+Elemental Obelisk
+Heart Tower
+Parallel Lookout
+Star Tower
+Daydream Tower
+Fortune Forest Lookout
+Ancestor Brook Spire
+Timeless Lake Tower
+Fire Stream Mast
+Barbarian Grove Tower
+Valiance Tower
+Valor Spire
+Wildlife Lookout
+Horoscope Mast
+Faith Tower
+Soul Loch Spire
+Great Pasture Tower
+Monster Thicket Tower
+Light Atoll Mast
+Boulder Mountain Mast
+Starlight Tower
+Observation Tower
+Symbiosis Tower
+Rejuvenation Mast
+Prophecy Tower
+Timeless Coast Tower
+Arch Mound Tower
+Heir Lake Tower
+Pine Morass Tower
+Jade Woods Tower
+Vision Tower
+Dreamland Mast
+Obsidian Mast
+Epiphany Obelisk
+Piety Tower
+Dragon Territory Obelisk
+Crystal Forest Lookout
+Frenzy Park Spire
+Ebon Glade Pillar
+Grand Slope Tower
+Pinnacle Pillar
+Power Mast
+Liberation Tower
+Azure Tower
+Renaissance Obelisk
+Ebon Lagoon Spire
+Snow Atoll Lookout
+Sky Coast Lookout
+Windy Grotto Spire
+Prime Shore Lookout
+Silk Spire
+High Tower
+Faith Pillar
+Homage Spire
+Hope Mast
+Sanctity Territory Tower
+Wild Meadow Lookout
+Bronze Mound Pillar
+Snow Swamp Tower
+Fossil Territory Spire
+Solitude Spire
+Vigor Lookout
+Onyx Obelisk
+Peace Blossom Mast
+Desire Tower
+Hope Tower
+Wisdom Swale Spire
+Ruby Glade Tower
+Venom River Spire
+Timeless Dune Tower
+Dream Copse Pillar
+High Point Lookout
+Star Spire
+Hallow Pillar
+Symbiosis Pillar
+Patience Obelisk
+Mighty Land Spire
+Phantom Coast Tower
+Stag Fen Pillar
+Sanctity Grove Tower
+Fortune Plains Pillar
+Renaissance Tower
+Summit Lookout
+Promise Lookout
+Starlight Tower
+Kinship Tower
+Light Meadow Tower
+Snow Sierra Obelisk
+Primordial Ridge Tower
+Golden Lagoon Pillar
+Prime Desert Tower
+Elysium Lookout
+Domination Mast
+Elysium Spire
+Myriad Obelisk
+Hope Tower
+Wyvern Morass Lookout
+Rune Swamp Mast
+Emerald River Mast
+Grim Grove Obelisk
+Creed Den Tower
+Zion Tower
+Symbiosis Tower
+Crystal Obelisk
+Fortitude Mast
+Revelation Spire
+Snow Strand Obelisk
+Stag Field Spire
+Forsaken Swale Obelisk
+Dead River Mast
+Fiend Dune Tower
+Phoenix Pillar
+Ascendance Tower
+Zion Obelisk
+Elysium Tower
+Ambition Obelisk
+Boulder Dune Lookout
+Winter Grove Tower
+Dream Garden Tower
+Silver Hill Tower
+Royal Bog Spire
+Divine Pillar
+Elemental Tower
+Rejuvenation Tower
+Spirit Pillar
+Reverence Obelisk
+Snow Woods Mast
+High Stream Mast
+Steel Ridge Pillar
+Fossil Lake Spire
+Lily Bluff Tower
+Reverence Tower
+Clover Tower
+Resurrection Tower
+Elysium Spire
+Dragon Mast
+Sacred Field Spire
+Dire Sierra Mast
+Peace Isle Obelisk
+Oak Mountain Pillar
+Sky Thicket Pillar
+Harmony Pillar
+Promise Tower
+High Lookout
+Epoch Obelisk
+Divine Tower
+Wicked Swale Tower
+Gray Pasture Mast
+Mystery Shore Tower
+Echo Creek Mast
+Dark Garden Tower
+Melody Spire
+Trust Lookout
+Trade Mast
+Prestige Spire
+Epiphany Tower
+Imp Ridge Pillar
+Sin Plains Spire
+Talon Garden Tower
+Miracle Dune Pillar
+Secret Copse Tower
+Celebration Tower
+Myriad Tower
+Liberty Tower
+Mirage Pillar
+High Point Spire
+Ebon Dune Pillar
+Phantom Park Tower
+Arrow Garden Tower
+Angel Shore Obelisk
+Low Mound Mast
+High Lookout
+Virtue Spire
+Freedom Pillar
+Daydream Pillar
+Glory Tower
+Golden Peak Mast
+Eternal Dune Tower
+Wrath Shore Lookout
+Crest Meadow Spire
+Oracle Slope Pillar
+Divine Tower
+Animus Lookout
+Charity Pillar
+Spirit Tower
+Life Mast
+White River Spire
+Sanguine Lagoon Tower
+Frenzy Mound Spire
+Desolate Morass Tower
+Broad Cavern Mast
+Horoscope Tower
+Synthesis Mast
+Solidarity Pillar
+Fealty Obelisk
+Ascendance Tower
+Dagger Stream Tower
+Terror Field Obelisk
+Velvet Brook Obelisk
+Honor Cavern Lookout
+East River Mast
+Rose Mast
+Sentience Mast
+Pilgrimage Obelisk
+Reincarnation Lookout
+Serenity Pillar
+Prestige Forest Pillar
+Willow Garden Tower
+Corruption Copse Lookout
+Summer Shore Pillar
+Ruby Peak Tower
+Rebirth Pillar
+Hope Spire
+Rainbow Obelisk
+Onyx Mast
+Salvation Pillar
+Relic Mire Tower
+Crest Mountain Pillar
+Bronze Den Tower
+Lesser Mound Tower
+Imperial Beach Tower
+Independence Tower
+Phoenix Tower
+Fame Tower
+Creed Lookout
+Strength Pillar
+Royal Peak Mast
+Honor Mountain Tower
+Tranquility Bog Tower
+Wyvern Cave Spire
+Wild Creek Tower
+Solitude Pillar
+Oracle Tower
+Twin Tower
+Oracle Pillar
+Symphony Tower
+Dream Desert Tower
+Mithril Woods Mast
+Prestige Strand Tower
+Empyrean Forest Spire
+West Jungle Mast
+Dream Mast
+Elemental Obelisk
+Hope Tower
+Orbit Tower
+Summit Pillar
+West Dune Mast
+Infinity Den Tower
+Dire Bog Tower
+Daydream Thicket Mast
+Vestige Dune Tower
+Utopia Tower
+Utopia Obelisk
+Charity Obelisk
+Liberation Tower
+Ascendance Obelisk
+Boulder Isle Tower
+Vestige Cliff Lookout
+Honor Swale Lookout
+Immortal Bog Spire
+Heirloom Jungle Obelisk
+Onyx Mound Pillar

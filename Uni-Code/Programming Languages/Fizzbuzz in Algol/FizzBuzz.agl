@@ -1,0 +1,14 @@
+BEGIN
+    FOR i FROM 1 TO 100
+    DO 
+       IF i %* 15 = 0 
+       THEN print("FizzBuzz")
+       ELIF i %* 5 = 0
+       THEN print("Buzz")
+       ELIF i %* 3 = 0
+       THEN print("Fizz")
+       ELSE print(("",whole(i,0)))
+       FI;
+       print(new line) 
+    OD
+END

@@ -1,0 +1,14 @@
+Kingdom of Cery
+Boit,Kingdom of Cery
+Ruuhver,Kingdom of Cery
+Arctin,Kingdom of Cery
+Hope Tower,Boit,dm=613.72,da=371.48,de=185.71,em=22.46,ea=16.28,ee=936.26,h=42.22,s=850.72
+Reincarnation Mast,Boit,dm=553.52,da=284.38,de=995.83,em=785.91,ea=544.18,ee=597.52,h=648.73,s=402.81
+Spirit Plains Tower,Boit,dm=964.42,da=963.03,de=861.52,em=940.63,ea=374.07,ee=554.45,h=473.98,s=881.19
+Symbiosis Tower,Ruuhver,dm=212.83,da=891.71,de=630.22,em=298.28,ea=388.82,ee=243.95,h=879.02,s=120.93
+Utopia Obelisk,Ruuhver,dm=581.41,da=930.76,de=459.44,em=659.34,ea=557.02,ee=631.14,h=780.83,s=187.13
+Light Meadow Tower,Ruuhver,dm=859.15,da=295.93,de=612.64,em=543.76,ea=437.03,ee=432.19,h=157.62,s=976.95
+Barbarian Grove Tower,Arctin,dm=553.39,da=828.03,de=792.46,em=87.57,ea=384.24,ee=280.57,h=658.38,s=718.72
+Rejuvenation Mast,Arctin,dm=104.19,da=39.85,de=938.48,em=370.28,ea=179.38,ee=246.26,h=748.06,s=746.71
+Dreamland Tower,Arctin,dm=194.39,da=555.72,de=252.35,em=734.72,ea=662.14,ee=29.48,h=194.5,s=704.1
+Boar Cave Pillar,Arctin,dm=805.77,da=349.88,de=223.56,em=65.25,ea=198.33,ee=132.66,h=185.15,s=720.98

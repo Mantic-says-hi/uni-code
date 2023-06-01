@@ -1,0 +1,39 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'oose.assignment1'
+version '1.0-SNAPSHOT'
+
+mainClassName = "oose.assignment1.ElectricityNetwork"
+sourceCompatibility = 11
+defaultTasks 'run'
+
+/*sourceSets{
+    main
+            {
+                java{srcDirs = ['src/main/java/oose.assignment1']}
+                resources {srcDirs = ['resources']}
+            }
+}*/
+
+repositories {
+    mavenCentral()
+}
+
+run{
+    standardInput = System.in
+}
+
+
+/*jar{
+    manifest
+            {
+                attibutes 'MainClass': mainClassName
+            }
+}*/
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

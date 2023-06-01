@@ -1,0 +1,42 @@
+
+SETTINGS:
+    M: 5
+    N: 5
+    K: 5
+
+GAME 1:
+    Turn: 1
+    Player: O
+    Location: 1,1
+
+    Turn: 2
+    Player: X
+    Location: 1,2
+
+    Turn: 3
+    Player: O
+    Location: 0,0
+
+    Turn: 4
+    Player: X
+    Location: 0,2
+
+    Turn: 5
+    Player: O
+    Location: 2,2
+
+    Turn: 6
+    Player: X
+    Location: 2,3
+
+    Turn: 7
+    Player: O
+    Location: 3,3
+
+    Turn: 8
+    Player: X
+    Location: 4,1
+
+    Turn: 9
+    Player: O
+    Location: 4,4
